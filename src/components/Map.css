@@ -1,0 +1,17 @@
+.map-data {
+    grid-area: map;
+    justify-self: right;
+    max-width: 800px;
+    width:100%;
+
+    max-height: 800px;
+    height: 100%;
+
+    margin: 20px;
+}
+
+.map-data g {
+    fill: white;
+    stroke: black;
+    stroke-width: 1px;
+}

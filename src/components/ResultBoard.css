@@ -1,0 +1,21 @@
+.result-board {
+    grid-area: board;
+    justify-self: left;
+    align-self: center;
+
+    min-width: 200px;
+}
+
+.result-board li {
+    list-style: decimal;
+}
+
+.result-board p {
+    color: #222;
+    font-size: 20px;
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+}
+
+.result-board p:hover {
+    text-shadow:0px 0px 1px black;
+}

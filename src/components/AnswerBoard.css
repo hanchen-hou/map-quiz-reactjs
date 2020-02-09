@@ -1,0 +1,18 @@
+.answer-board{
+    grid-area: board;
+    justify-self: left;
+    align-self: center;
+
+    margin: 10px;
+}
+
+.answer-board li{
+    list-style: decimal;
+}
+
+.answer-board button{
+    width: 100%;
+    border-radius: 4px;
+    border-width: 1px;
+    padding: 10px;
+}
